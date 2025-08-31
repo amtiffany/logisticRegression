@@ -1,4 +1,4 @@
-# rlogistic regression
+# logistic regression
 
 Summary:
 small program that trains a predictive model based on the mnist dataset for arabic numerals.
